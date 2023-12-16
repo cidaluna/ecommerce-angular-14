@@ -1,6 +1,10 @@
-# EcommerceAngular14
+# Ecommerce Angular 14
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+This ecommerce project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+
+## Preview
+
+![Header ecommerce with shopping cart icon](./src/assets/ecommerce-angular-14-Cida-Luna-IT-Developer.gif)
 
 ## Development server
 
