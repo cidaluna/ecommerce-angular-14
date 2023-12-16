@@ -7,9 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  cols: number = 3;
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  onColumnsCountChange(colsNumber: number): void{
+    this.cols = colsNumber;
   }
 
 }

@@ -4,7 +4,7 @@ This ecommerce project was generated with [Angular CLI](https://github.com/angul
 
 ## Preview
 
-![Header ecommerce with shopping cart icon](./src/assets/ecommerce-angular-14-Cida-Luna-IT-Developer.gif)
+![Header ecommerce with shopping cart icon](./src/assets/ecommerce-angular-14-Cida-Luna-IT-Developer-2.gif)
 
 ## Development server
 
