@@ -11,8 +11,6 @@ export class ProductsHeaderComponent implements OnInit {
   itemsShowCount = 12;
   @Output() columnsCountChange = new EventEmitter<number>();
 
-  constructor() { }
-
   ngOnInit(): void {
   }
 
