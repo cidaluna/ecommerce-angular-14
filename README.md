@@ -1,10 +1,20 @@
 # Ecommerce Angular 14
 
+O projeto WebStore Angular está em desenvolvimento, trata-se de uma loja virtual (e-commerce) que consome a **API Fake Store API** em tempo real, para mostrar os produtos a serem 'comercializados' na loja.
+
 This ecommerce project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Preview
 
 ![Header ecommerce with shopping cart icon](./src/assets/ecommerce-angular-14-Cida-Luna-IT-Developer-2.gif)
+
+## API de Cotações
+
+Exemplos:
+* https://fakestoreapi.com/products
+* https://fakestoreapi.com/products?limit=5
+* https://fakestoreapi.com/products/category/jewelery
+
 
 ## Development server
 
